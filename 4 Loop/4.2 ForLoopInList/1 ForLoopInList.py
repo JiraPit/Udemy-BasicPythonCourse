@@ -1,4 +1,4 @@
 alphabets = ["a","b","c","d","e"]
 
-for a in alphabets:
-    print("the upper case of ",a," is ",a.upper())
+for x in alphabets:
+    print("the upper case of ",x," is ",x.upper())
