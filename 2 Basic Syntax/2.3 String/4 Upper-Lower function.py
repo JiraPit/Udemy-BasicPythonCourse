@@ -6,3 +6,4 @@ uppercase = name.upper()
 print(name)
 print(lowercase)
 print(uppercase)
+

@@ -5,4 +5,5 @@ equal = x==y
 more = x>y
 less = x<y
 
-print(equal, more, less, sep=" ")
+print(equal, more, less)
+
