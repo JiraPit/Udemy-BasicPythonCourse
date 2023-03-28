@@ -1,4 +1,4 @@
-x = input("กรอกอายุของท่าน: ")
+x = int(input("กรอกอายุของท่าน: "))
 print(type(x))
-print(x)
+print(x+2)
 

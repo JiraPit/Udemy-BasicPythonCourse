@@ -1,5 +1,5 @@
-x = 5
-y = 2.5
+x = 6
+y = 3
 
 print(x+y)
 print(x-y)

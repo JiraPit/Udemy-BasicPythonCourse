@@ -3,3 +3,5 @@ while True:
     if i == 0:
         break
     print(i**3)
+
+    

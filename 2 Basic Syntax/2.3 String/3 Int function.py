@@ -1,6 +1,6 @@
 x = "3"
 y = "2"
-sum = x+y
+sum = int(x) + int(y)
 
 print(sum)
 

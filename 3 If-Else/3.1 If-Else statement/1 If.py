@@ -1,4 +1,6 @@
-my_score = 72
+my_score = 20
 
 if my_score >= 50:
     print("สอบผ่าน")
+
+

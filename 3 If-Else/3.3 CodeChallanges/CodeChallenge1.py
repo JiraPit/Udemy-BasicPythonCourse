@@ -4,3 +4,18 @@
 # ถ้าคะแนนอยู่ในช่วง 60-69 ให้ print ว่า เกรดC
 # ถ้าคะแนนอยู่ในช่วง 50-59 ให้ print ว่า เกรดD
 # ถ้าคะแนนต่ำกว่า 50 ให้ print ว่า เกรดF
+
+score = int(input("กรอกคะแนน: "))
+
+if score >= 80:
+    print("เกรดA")
+elif score >=70:
+    print("เกรดB")
+elif score >= 60:
+    print("เกรดC")
+elif score >= 50:
+    print("เกรดD")
+else:
+    print("เกรดF")    
+
+    

@@ -1,7 +1,7 @@
 x = 5
 y = 4
 
-equal = x==y
+equal = x!=y
 more = x>y
 less = x<y
 

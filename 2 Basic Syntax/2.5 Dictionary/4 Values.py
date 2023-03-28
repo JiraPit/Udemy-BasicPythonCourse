@@ -5,4 +5,5 @@ my_dict = {
     }
 
 print(my_dict.values())
+print(type( list(my_dict.values()) ))
 
