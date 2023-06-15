@@ -13,3 +13,4 @@ class Student():
 mike = Student("Mike")
 mike.set_score(80)
 print(mike.get_score)
+

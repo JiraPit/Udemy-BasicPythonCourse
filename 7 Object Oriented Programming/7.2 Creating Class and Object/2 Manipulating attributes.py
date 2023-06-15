@@ -8,3 +8,4 @@ print(johns_bedroom.bed_size)
 
 johns_bedroom.bed_size = 4
 print(johns_bedroom.bed_size)
+

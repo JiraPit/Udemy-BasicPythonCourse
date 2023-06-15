@@ -2,4 +2,7 @@ def times_table(n):
     for i in range(1,13):
         print(n," x ",i," = ",n*i)
 
-times_table(2)
+times_table(4)
+times_table(5)
+
+

@@ -5,3 +5,4 @@ class Student():
 
 mike = Student("Mike")
 print(mike.score)
+

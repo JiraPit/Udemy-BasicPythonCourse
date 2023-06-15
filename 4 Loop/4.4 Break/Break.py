@@ -4,4 +4,4 @@ while True:
         break
     print(i**3)
 
-    
+print("การทำงานเสร็จสิ้นแล้ว")

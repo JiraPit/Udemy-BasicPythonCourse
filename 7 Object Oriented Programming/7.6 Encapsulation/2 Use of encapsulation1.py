@@ -6,3 +6,4 @@ class Student():
 mike = Student("Mike")
 mike.score = 80
 print(mike.score)
+

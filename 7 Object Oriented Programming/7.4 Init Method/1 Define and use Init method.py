@@ -13,3 +13,4 @@ johns_bedroom = Bedroom(5,"black")
 
 print(johns_bedroom.bed_size)
 print(johns_bedroom.door_colour)
+

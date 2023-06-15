@@ -3,5 +3,9 @@ def calculate_bmi(h, w):
     bmi = w/(h**2)
     return bmi
 
-my_bmi = calculate_bmi(164,52)
+my_bmi = calculate_bmi(174,52)
+
 print(my_bmi)
+
+
+

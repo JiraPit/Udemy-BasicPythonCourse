@@ -14,3 +14,4 @@ print(johns_bedroom.has_carpet)
 
 johns_bedroom.buy_carpet()
 print(johns_bedroom.has_carpet)
+
