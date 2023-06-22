@@ -4,3 +4,14 @@
 
 # *คำใบ้: สร้างฟังก์ชั่นก่อนแล้วค่อยทำ List Comprehension
 
+def multiply(e):
+    if e%2==0:
+        return e*2
+    else:
+        return e*3
+    
+L1 = [2,3,4,5,6]
+
+L2 = [ multiply(x) for x in L1]
+
+print(L2)
