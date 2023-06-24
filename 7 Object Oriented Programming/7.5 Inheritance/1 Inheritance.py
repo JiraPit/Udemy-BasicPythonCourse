@@ -1,8 +1,4 @@
 class Animal:
-    def __init__(self,colour="grey",legs_count=2):
-        self.colour = colour
-        self.legs_count = legs_count
-    
     def move(self):
         print("ขยับ...ขยับ...")
 
@@ -18,6 +14,5 @@ print(my_snake.fang_count)
 my_snake.move()
 my_snake.bite()
 
-# print(my_snake.legs_count)
-# print(my_snake.colour)
+
 
