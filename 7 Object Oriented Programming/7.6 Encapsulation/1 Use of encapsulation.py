@@ -1,9 +1,13 @@
 class Student():
-    def __init__(self,name,score=0):
+    def __init__(self,name,score):
         self.name = name
-        self.score = score
+        self.__score = score
 
-mike = Student("Mike")
-mike.score = 80
-print(mike.score)
+    def print_score(self):
+        print(self.__score)
+    
+mike = Student("Mike",80)
+mike.print_score()
+
+
 

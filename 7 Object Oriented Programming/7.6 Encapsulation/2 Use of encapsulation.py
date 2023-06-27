@@ -12,5 +12,9 @@ class Student():
 
 mike = Student("Mike")
 mike.set_score(80)
-print(mike.get_score)
+print(mike.get_score())
+
+mike.set_score(160)
+print(mike.get_score())
+
 
